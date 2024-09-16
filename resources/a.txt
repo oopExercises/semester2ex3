@@ -1,0 +1,8 @@
+help
+substr 1 2
+add 0 2
+mul 2 2
+comp 1 3
+eval 2 oop2
+eval 4 oop2
+del 0

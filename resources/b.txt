@@ -1,0 +1,4 @@
+help
+add 0 1
+eval 3 oop2
+exit
